@@ -1,0 +1,1 @@
+The Digital E-Gram project aims to digitize and streamline the administrative functions and services of village panchayats (local self-governments) using PHP and MySQL. This project will enhance transparency, efficiency, and accessibility of village-level governance. Below is a concise summary of the key components and functionalities of the project:
